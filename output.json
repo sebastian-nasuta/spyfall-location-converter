@@ -1,5 +1,5 @@
 {
-  "airplane": {
+  "custom_airplane": {
     "name": "Samolot",
     "role1": "Pasażer pierwszej klasy",
     "role2": "Agent ochrony",
@@ -9,7 +9,7 @@
     "role6": "Pierwszy oficer",
     "role7": "Kapitan"
   },
-  "bank": {
+  "custom_bank": {
     "name": "Bank",
     "role1": "Kierowca samochodu opancerzonego",
     "role2": "Menadżer",
@@ -19,7 +19,7 @@
     "role6": "Ochroniarz",
     "role7": "Kasjer"
   },
-  "beach": {
+  "custom_beach": {
     "name": "Plaża",
     "role1": "Kelnerka",
     "role2": "Kite Surfer",
@@ -29,7 +29,7 @@
     "role6": "Fotograf",
     "role7": "Kierowca furgonetki z lodami"
   },
-  "broadway_theater": {
+  "custom_broadway_theater": {
     "name": "Teatr na Broadway",
     "role1": "Szatniarka",
     "role2": "Sufler",
@@ -39,7 +39,7 @@
     "role6": "Aktor",
     "role7": "Członek ekipy"
   },
-  "casino": {
+  "custom_casino": {
     "name": "Kasyno",
     "role1": "Barman",
     "role2": "Szef ochrony",
@@ -49,7 +49,7 @@
     "role6": "Krupier",
     "role7": "Hazardzista"
   },
-  "cathedral": {
+  "custom_cathedral": {
     "name": "Katedra",
     "role1": "Ksiądz",
     "role2": "Żebrak",
@@ -59,7 +59,7 @@
     "role6": "Sponsor",
     "role7": "Chórzysta"
   },
-  "circus_tent": {
+  "custom_circus_tent": {
     "name": "Namiot cyrkowy",
     "role1": "Akrobata",
     "role2": "Treser zwierząt",
@@ -69,7 +69,7 @@
     "role6": "Klaun",
     "role7": "Żongler"
   },
-  "corporate_party": {
+  "custom_corporate_party": {
     "name": "Impreza firmowa",
     "role1": "Artysta",
     "role2": "Menadżer",
@@ -79,7 +79,7 @@
     "role6": "Księgowy",
     "role7": "Kurier"
   },
-  "crusader_army": {
+  "custom_crusader_army": {
     "name": "Armia krzyżowców",
     "role1": "Mnich",
     "role2": "Pojmany Arab",
@@ -89,7 +89,7 @@
     "role6": "Łucznik",
     "role7": "Rycerz"
   },
-  "day_spa": {
+  "custom_day_spa": {
     "name": "Dzień w spa",
     "role1": "Klient",
     "role2": "Stylista",
@@ -99,7 +99,7 @@
     "role6": "Dermatolog",
     "role7": "Kosmetyczna"
   },
-  "embassy": {
+  "custom_embassy": {
     "name": "Ambasada",
     "role1": "Ochroniarz",
     "role2": "Sekretarka",
@@ -109,7 +109,7 @@
     "role6": "Uchodźca",
     "role7": "Dyplomata"
   },
-  "hospital": {
+  "custom_hospital": {
     "name": "Szpital",
     "role1": "Pielęgniarka",
     "role2": "Doktor",
@@ -119,7 +119,7 @@
     "role6": "Terapeuta",
     "role7": "Chirurg"
   },
-  "hotel": {
+  "custom_hotel": {
     "name": "Hotel",
     "role1": "Portier",
     "role2": "Ochroniarz",
@@ -129,7 +129,7 @@
     "role6": "Barman",
     "role7": "Goniec hotelowy"
   },
-  "military_base": {
+  "custom_military_base": {
     "name": "Baza wojskowa",
     "role1": "Dezerter",
     "role2": "Pułkownik",
@@ -139,7 +139,7 @@
     "role6": "Oficer",
     "role7": "Inżynier czołgowy"
   },
-  "movie_studio": {
+  "custom_movie_studio": {
     "name": "Studio filmowe",
     "role1": "Kaskader",
     "role2": "Dźwiękowiec",
@@ -149,7 +149,7 @@
     "role6": "Aktor",
     "role7": "Producent"
   },
-  "ocean_liner": {
+  "custom_ocean_liner": {
     "name": "Statek rejsowy",
     "role1": "Bogaty pasażer",
     "role2": "Kuk",
@@ -159,7 +159,7 @@
     "role6": "Kelner",
     "role7": "Mechanik"
   },
-  "passenger_train": {
+  "custom_passenger_train": {
     "name": "Pociąg pasażerski",
     "role1": "Maszynista",
     "role2": "Straż Graniczna",
@@ -169,7 +169,7 @@
     "role6": "Inżynier",
     "role7": "Palacz"
   },
-  "pirate_ship": {
+  "custom_pirate_ship": {
     "name": "Statek piracki",
     "role1": "Kuk",
     "role2": "Marynarz",
@@ -179,7 +179,7 @@
     "role6": "Chłopiec kabinowy",
     "role7": "Odważny kapitan"
   },
-  "polar_station": {
+  "custom_polar_station": {
     "name": "Stacja polarna",
     "role1": "Medyk",
     "role2": "Geolog",
@@ -189,7 +189,7 @@
     "role6": "Hydrolog",
     "role7": "Meteorolog"
   },
-  "police_station": {
+  "custom_police_station": {
     "name": "Posterunek policji",
     "role1": "Detektyw",
     "role2": "Prawnik",
@@ -199,7 +199,7 @@
     "role6": "Funkcjonariusz patrolu",
     "role7": "Przestępca"
   },
-  "restaurant": {
+  "custom_restaurant": {
     "name": "Restauracja",
     "role1": "Muzyk",
     "role2": "Klient",
@@ -209,7 +209,7 @@
     "role6": "Krytyk kulinarny",
     "role7": "Kelner"
   },
-  "school": {
+  "custom_school": {
     "name": "Szkoła",
     "role1": "Nauczyciel WF-u",
     "role2": "Uczeń",
@@ -219,7 +219,7 @@
     "role6": "Kucharka",
     "role7": "Pomoc techniczna"
   },
-  "service_station": {
+  "custom_service_station": {
     "name": "Serwis samochodowy",
     "role1": "Menadżer",
     "role2": "Wulkanizator",
@@ -229,7 +229,7 @@
     "role6": "Elektryk",
     "role7": "Mechanik"
   },
-  "space_station": {
+  "custom_space_station": {
     "name": "Stacja kosmiczna",
     "role1": "Inżynier",
     "role2": "Obcy",
@@ -239,7 +239,7 @@
     "role6": "Naukowiec",
     "role7": "Doktor"
   },
-  "submarine": {
+  "custom_submarine": {
     "name": "Łódź podwodna",
     "role1": "Kuk",
     "role2": "Dowódca",
@@ -249,7 +249,7 @@
     "role6": "Radiooperator",
     "role7": "Nawigator"
   },
-  "supermarket": {
+  "custom_supermarket": {
     "name": "Super market",
     "role1": "Klient",
     "role2": "Kasjer",
@@ -259,7 +259,7 @@
     "role6": "Demonstator próbek jedzenia",
     "role7": "Układający na półkach"
   },
-  "university": {
+  "custom_university": {
     "name": "Uniwersytet",
     "role1": "Absolwent",
     "role2": "Profesor",
@@ -269,7 +269,7 @@
     "role6": "Uczeń",
     "role7": "Woźny"
   },
-  "amusement_park": {
+  "custom_amusement_park": {
     "name": "Park Rozrywki",
     "role1": "Operator karuzeli",
     "role2": "Rodzic",
@@ -282,7 +282,7 @@
     "role9": "Ochroniarz",
     "role10": "Rodzic"
   },
-  "art_museum": {
+  "custom_art_museum": {
     "name": "Muzeum sztuki",
     "role1": "Sprzedawca biletów",
     "role2": "Uczeń",
@@ -295,7 +295,7 @@
     "role9": "Fotograf",
     "role10": "Turysta"
   },
-  "candy_factory": {
+  "custom_candy_factory": {
     "name": "Fabryka cukierków",
     "role1": "Szalony Kapelusznik",
     "role2": "Szef wypieków",
@@ -308,7 +308,7 @@
     "role9": "Inspektor",
     "role10": "Operator maszyny"
   },
-  "cat_show": {
+  "custom_cat_show": {
     "name": "Pokaz Kotów",
     "role1": "Jury",
     "role2": "Opiekun kotów",
@@ -321,7 +321,7 @@
     "role9": "Kot",
     "role10": "Kot"
   },
-  "cemetery": {
+  "custom_cemetery": {
     "name": "Cmentarz",
     "role1": "Ksiądz",
     "role2": "Gotka",
@@ -334,7 +334,7 @@
     "role9": "Sprzedawca Kwiatów",
     "role10": "Grabarz"
   },
-  "coal_mine": {
+  "custom_coal_mine": {
     "name": "Kopalnia Węgla",
     "role1": "Inspektor BHP",
     "role2": "Górnik",
@@ -347,7 +347,7 @@
     "role9": "Inżynier odpadów stałych",
     "role10": "Pracownik"
   },
-  "construction_site": {
+  "custom_construction_site": {
     "name": "Plac Budowlany",
     "role1": "Dziecko bez nadzoru",
     "role2": "Kontraktor",
@@ -360,7 +360,7 @@
     "role9": "Pracownik Budowy",
     "role10": "Pracownik Budowy"
   },
-  "gaming_convention": {
+  "custom_gaming_convention": {
     "name": "Konwent Gier",
     "role1": "Blogger",
     "role2": "Cosplayer",
@@ -373,7 +373,7 @@
     "role9": "Nieśmiały",
     "role10": "Znana osobowość"
   },
-  "gas_station": {
+  "custom_gas_station": {
     "name": "Stacja paliw",
     "role1": "Maniak Samochodów",
     "role2": "Obsługa",
@@ -386,7 +386,7 @@
     "role9": "Obsługa",
     "role10": "Menadżer"
   },
-  "harbor_docks": {
+  "custom_harbor_docks": {
     "name": "Przystań",
     "role1": "Pracownik załadunku/rozładunku",
     "role2": "Stary pirat",
@@ -399,7 +399,7 @@
     "role9": "Kontroler ładunku",
     "role10": "Przemytnik"
   },
-  "ice_hockey_stadium": {
+  "custom_ice_hockey_stadium": {
     "name": "Stadion hokejowy",
     "role1": "Fan hokeja",
     "role2": "Sanitariusz",
@@ -412,7 +412,7 @@
     "role9": "Obserwator",
     "role10": "Zawodnik hokeja"
   },
-  "jail": {
+  "custom_jail": {
     "name": "Więzienie",
     "role1": "Niesłusznie oskarżona osoba",
     "role2": "Operator kamer ochrony",
@@ -425,7 +425,7 @@
     "role9": "Funkcjonariusz służby więziennej",
     "role10": "Szaleniec"
   },
-  "jazz_club": {
+  "custom_jazz_club": {
     "name": "Klub Jazzowy",
     "role1": "Bramkarz",
     "role2": "Perkusista",
@@ -438,7 +438,7 @@
     "role9": "VIP",
     "role10": "Kelner"
   },
-  "library": {
+  "custom_library": {
     "name": "Biblioteka",
     "role1": "Staruszek",
     "role2": "Dziennikarz",
@@ -451,7 +451,7 @@
     "role9": "Fanatyk książek",
     "role10": "Kujon"
   },
-  "night_club": {
+  "custom_night_club": {
     "name": "Klub nocny",
     "role1": "Bywalec",
     "role2": "Barman",
@@ -464,7 +464,7 @@
     "role9": "Pijany",
     "role10": "Nieśmiały"
   },
-  "race_track": {
+  "custom_race_track": {
     "name": "Tor wyścigowy",
     "role1": "Właściciel zespołu",
     "role2": "Kierowca",
@@ -477,7 +477,7 @@
     "role9": "Bukmacher",
     "role10": "Widz"
   },
-  "retirement_home": {
+  "custom_retirement_home": {
     "name": "Dom spokojnej starości",
     "role1": "Krewny",
     "role2": "Karciarz",
@@ -490,7 +490,7 @@
     "role9": "Starsza osoba",
     "role10": "Pielęgniarka"
   },
-  "rock_concert": {
+  "custom_rock_concert": {
     "name": "Koncert rockowy",
     "role1": "Tancerz",
     "role2": "Wokalista",
@@ -503,7 +503,7 @@
     "role9": "Basista",
     "role10": "Obsługa techniczna"
   },
-  "sightseeing_bus": {
+  "custom_sightseeing_bus": {
     "name": "Autobus krajoznawczy",
     "role1": "Staruszek",
     "role2": "Samotny turysta",
@@ -516,7 +516,7 @@
     "role9": "Zagubiona osoba",
     "role10": "Turysta"
   },
-  "stadium": {
+  "custom_stadium": {
     "name": "Stadion",
     "role1": "Sanitariusz",
     "role2": "Młociarz",
@@ -529,7 +529,7 @@
     "role9": "Tyczkarz",
     "role10": "Sprinter"
   },
-  "subway": {
+  "custom_subway": {
     "name": "Metro",
     "role1": "Turysta",
     "role2": "Maszynista",
@@ -542,7 +542,7 @@
     "role9": "Staruszka",
     "role10": "Niewidomy"
   },
-  "the_un": {
+  "custom_the_un": {
     "name": "O.N.Z.",
     "role1": "Dyplomata",
     "role2": "Tłumacz",
@@ -555,7 +555,7 @@
     "role9": "Sekretarz generalny",
     "role10": "Lobbysta"
   },
-  "vineyard": {
+  "custom_vineyard": {
     "name": "Winnica",
     "role1": "Ogrodnik",
     "role2": "Przewodnik kulinarny",
@@ -568,7 +568,7 @@
     "role9": "Zarządca winnicy",
     "role10": "Enolog"
   },
-  "wedding": {
+  "custom_wedding": {
     "name": "Wesele",
     "role1": "Powiernik pierścienia",
     "role2": "Pan młody",
@@ -581,7 +581,7 @@
     "role9": "Świadek",
     "role10": "Krewny"
   },
-  "zoo": {
+  "custom_zoo": {
     "name": "Zoo",
     "role1": "Opiekun zwierząt",
     "role2": "Zwiedzający",

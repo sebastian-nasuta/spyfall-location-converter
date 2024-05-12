@@ -1,7 +1,7 @@
 import json
 
 # Load the data from the input file
-with open('pl-PL.json', 'r', encoding='utf-8') as f:
+with open('input.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Create a new dictionary to hold the transformed data
@@ -14,6 +14,7 @@ for key, value in data.items():
 
     if len(parts) == 2:
         location = parts[1]
+        location = 'custom_' + location
 
         # Check if the location is already in the new dictionary
         if location not in new_data:
@@ -27,6 +28,7 @@ for key, value in data.items():
 
     # Get the location and role
     location, role = parts[1:]
+    location = 'custom_' + location
 
     # Check if the role starts with 'role'
     if role.startswith('role'):
@@ -34,5 +36,5 @@ for key, value in data.items():
         new_data[location][role] = value
 
 # Write the new dictionary to the output file in JSON format
-with open('spyfall_dictionary.json', 'w', encoding='utf-8') as f:
+with open('output.json', 'w', encoding='utf-8') as f:
     json.dump(new_data, f, ensure_ascii=False, indent=2)

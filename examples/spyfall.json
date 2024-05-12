@@ -1,0 +1,27 @@
+{
+  "custom_locations": {
+    "1": {
+      "name": "Location1",
+      "role1": "r1",
+      "role2": "r2",
+      "role3": "r3"
+    },
+    "2": {
+      "name": "Location2",
+      "role1": "r1",
+      "role2": "r2r",
+      "role3": "r3"
+    },
+    "3": {
+      "name": "Location3",
+      "role1": "r1",
+      "role2": "r2",
+      "role3": "r3"
+    }
+  },
+  "selected_locations": {
+    "1": true,
+    "2": true,
+    "3": true
+  }
+}
