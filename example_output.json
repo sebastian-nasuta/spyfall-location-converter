@@ -1,0 +1,32 @@
+{
+  "airplane": {
+    "name": "Samolot",
+    "role1": "Pasażer pierwszej klasy",
+    "role2": "Agent ochrony",
+    "role3": "Mechanik",
+    "role4": "Pasażer klasy ekonomicznej",
+    "role5": "Stewardessa",
+    "role6": "Pierwszy oficer",
+    "role7": "Kapitan"
+  },
+  "bank": {
+    "name": "Bank",
+    "role1": "Kierowca samochodu opancerzonego",
+    "role2": "Menadżer",
+    "role3": "Konsultant",
+    "role4": "Klient",
+    "role5": "Rabuś",
+    "role6": "Ochroniarz",
+    "role7": "Kasjer"
+  },
+  "beach": {
+    "name": "Plaża",
+    "role1": "Kelnerka",
+    "role2": "Kite Surfer",
+    "role3": "Ratownik",
+    "role4": "Złodziej",
+    "role5": "Plażowicz",
+    "role6": "Fotograf",
+    "role7": "Kierowca furgonetki z lodami"
+  }
+}
